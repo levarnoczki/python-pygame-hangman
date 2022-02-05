@@ -2,6 +2,7 @@
 # Hangman Game
 
 A simple hangman game with GUI written in Python using the Pygame module
+
 [
 ![License](https://img.shields.io/github/license/TheAlgorithms/Java?color=%23A31F34&style=plastic  "MIT license")
 ](https://github.com/BananaaaDealer/python-pygame-hangman/blob/main/LICENSE)&nbsp;
@@ -39,6 +40,7 @@ A simple hangman game with GUI written in Python using the Pygame module
 ## Authors
 
 * Arnóczki Levente - *initial work*
+
 See also the list of [contributors](https://github.com/BananaaaDealer/python-pygame-hangman/graphs/contributors) who participated in this project.
 
 ## License
