@@ -17,7 +17,7 @@ A simple hangman game with GUI written in Python using the Pygame module
 ## Installing and running the application
 
 <ol>  
-<li>Download the Hangman Game installer that you find inside of the Hangman Game Installer directory.</li>  
+<li>Download the Hangman Game installer that you find inside of the Hangman Game Installer directory</li>  
 <li>Run the Hangman Game application and install it on your device wherever you would like to</li>  
 <li>After the installation was successfully completed open the Hangman Game folder</li>  
 <li>Inside the game's folder you will find the game's executable file and all of the game's components</li>  
@@ -48,7 +48,7 @@ This project is licensed under the  **MIT license**. Feel free to edit and distr
 
 See  [LICENSE](https://github.com/BananaaaDealer/python-pygame-hangman/blob/main/LICENSE)  for more information.
 
-## ## Acknowledgements
+## Acknowledgements
 Thanks for these awesome resources that were used during the development of the Hangman Game:
  * [Pygame documentations](https://github.com/BananaaaDealer/python-pygame-hangman/graphs/contributors)
  * [Tech With Tim](https://www.techwithtim.net/)
