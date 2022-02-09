@@ -41,7 +41,7 @@ A simple hangman game with GUI written in Python using the Pygame module
 <i>Pause Menu</i>
 </p>
 
-![Options and Credits](https://drive.google.com/uc?export=view&id=1OTPGza2fiRRZRot9UxYFgmntGzIUbus7 "Options and Credits")
+![Options and Credits](https://drive.google.com/uc?export=view&id=1MRT3sPCGkIDs5PmdsviEXCqg8tOdJCV9 "Options and Credits")
 <p  align="center">
 <i>Options and Credits</i>
 </p>
