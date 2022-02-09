@@ -31,17 +31,17 @@ A simple hangman game with GUI written in Python using the Pygame module
 <i>Image of the Main Menu</i>
 </p>
 
-![Main Menu](https://drive.google.com/uc?export=view&id=1jvdBdeOOTWNyEIZIzd27eQQ-fMHO436T "Gameplay")
+![Gameplay](https://drive.google.com/uc?export=view&id=1jvdBdeOOTWNyEIZIzd27eQQ-fMHO436T "Gameplay")
 <p  align="center">
 <i>Gameplay Showcase</i>
 </p>
 
-![Main Menu](https://drive.google.com/uc?export=view&id=17dllJyASHigVj4_ShBxT8wcb4Hx0WkJ4 "Pause Menu")
+![Pause Menu](https://drive.google.com/uc?export=view&id=17dllJyASHigVj4_ShBxT8wcb4Hx0WkJ4 "Pause Menu")
 <p  align="center">
 <i>Pause Menu</i>
 </p>
 
-![Main Menu](https://drive.google.com/uc?export=view&id=1OTPGza2fiRRZRot9UxYFgmntGzIUbus7 "Options and Credits")
+![Options and Credits](https://drive.google.com/uc?export=view&id=1OTPGza2fiRRZRot9UxYFgmntGzIUbus7 "Options and Credits")
 <p  align="center">
 <i>Options and Credits</i>
 </p>
